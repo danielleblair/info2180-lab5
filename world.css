@@ -1,1 +1,36 @@
-/* Add your own styles */
+header{
+    background-color: green;
+    justify-content: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    height: 30%;
+    padding: 20px;
+}
+
+main{
+    justify-content: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: lightgreen;
+    font-size: 18px;
+    margin: 0 auto;
+    height: 100%;
+    padding: 20px;;
+}
+
+h1{
+    color:white; 
+    padding: 20px;
+    text-align: center;
+}
+
+input{
+    width: 70%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+button{
+    padding: 12px 20px;
+    background-color: darkslategray;
+    color: white;
+}
