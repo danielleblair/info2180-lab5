@@ -34,3 +34,22 @@ button{
     background-color: darkslategray;
     color: white;
 }
+
+/* table{
+    background-color: aliceblue;
+    border-collapse: collapse;
+} */
+
+table, td, th {
+    /* border-top-width: 1px;
+    border-top-style: solid;
+    border-top-color:black; */
+    border-width: 1px;
+    border-color: black;
+    border-style: solid;
+    background-color: aliceblue;
+    padding: 5px 15px;
+    border-collapse: collapse;
+
+    
+}
