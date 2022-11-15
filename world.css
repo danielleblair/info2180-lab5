@@ -16,6 +16,14 @@ main{
     padding: 20px;;
 }
 
+img{
+    margin: auto;
+    display: block;
+    height: 80px;
+    width: 80px;
+    
+}
+
 h1{
     color:white; 
     padding: 20px;
@@ -35,15 +43,14 @@ button{
     color: white;
 }
 
-/* table{
-    background-color: aliceblue;
-    border-collapse: collapse;
-} */
+
+#result{
+    margin-left: 100px;
+    padding: 25px;
+}
+
 
 table, td, th {
-    /* border-top-width: 1px;
-    border-top-style: solid;
-    border-top-color:black; */
     border-width: 1px;
     border-color: black;
     border-style: solid;
